@@ -1,0 +1,25 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "mock-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushi9797/mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushi9797/mock-server/issues"
+  },
+  "homepage": "https://github.com/ayushi9797/mock-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "nodemon": "^2.0.22"
+  }
+}
