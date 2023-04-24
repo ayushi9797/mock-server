@@ -1,28 +1,34 @@
 {
-    "dogs": [
-      {
-        "id": 1,
-        "name": "Cherry",
-        "age": 2,
-        "place": "Visakhapatnam",
-        "gender": "Male"
-      },
-      {
-        "id": 1,
-        "name": "Tommy",
-        "age": 3,
-        "place": "Banglore",
-        "gender": "Female"
-      }
-    ],
-    "users": [
-      {
-        "id": 1,
-        "name": "Cherry",
-        "age": 2,
-        "place": "Visakhapatnam",
-        "gender": "Male"
-      }
-    ]
-   
-  }
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 1,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ayushi",
+      "age": 2,
+      "place": "Goa",
+      "gender": "Female"
+    },
+    {
+      "id": 1,
+      "name": "Chiku",
+      "age": 3,
+      "place": "Shimla",
+      "gender": "Male"
+    }
+  ]
+}
