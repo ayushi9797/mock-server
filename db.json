@@ -15,20 +15,45 @@
       "gender": "Female"
     }
   ],
+  "cakes": [
+    {
+      "id":1,
+      "name":"Red velvet",
+      "flavour":"red Cherry",
+      "price":500,
+      "size":"medium"
+    },
+    {
+      "id":2,
+      "name":"Black Forest",
+      "flavour":"Choclate",
+      "price":1000,
+      "size":"Large"
+    },
+    {
+      "id":3,
+      "name":"Unicorn fest",
+      "flavour":"Pineapple",
+      "price":1500,
+      "size":"small"
+    }
+  ],
   "users": [
     {
       "id": 1,
       "name": "Ayushi",
-      "age": 2,
-      "place": "Goa",
-      "gender": "Female"
+      "email":"soniayushi345@gmail.com",
+      "password": "1234",
+      "address": "Goa"
+      
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Chiku",
-      "age": 3,
-      "place": "Shimla",
-      "gender": "Male"
+      "email":"fsociety430@gmail.com",
+      "password": "12345",
+      "address": "Shimla"
     }
   ]
+
 }
